@@ -1,0 +1,3 @@
+SharpMapX is a geospatial cross-platform library to build mobile GIS applications on .NET and Xamarin. Based on the PCL (Portable Class Library) technology, is compatible with Windows Phone 8, Android (with Xamarin), iOS (with Xamarin), Windows tablet and desktop.
+
+It is a porting of [SharpMap](https://sharpmap.codeplex.com/) to the PCL (Portable Class Library) technology. Because [SharpMap](https://sharpmap.codeplex.com/) depends on the [Net Topology Suite library](https://code.google.com/p/nettopologysuite/), also this one has been included.
